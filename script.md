@@ -8,7 +8,7 @@ The rush to adopt AI in software development is creating a surprising challenge.
 According to a report from Harness, while AI has supercharged code creation, most organisations haven’t developed the rest of the software delivery lifecycle at the same pace. This imbalance has created what the report calls the “AI Velocity Paradox.”
 
 
-Here’s what that means: 63 percent of organisations report shipping code to production more frequently since adopting AI. But more code doesn’t always mean faster delivery overall. In fact, pushing more code into pipelines that aren’t fully automated often slows things down and introduces new risks.
+This means that: 63 percent of organisations report shipping code to production more frequently since adopting AI. But more code doesn’t always mean faster delivery overall. In fact, pushing more code into pipelines that aren’t fully automated often slows things down and introduces new risks.
 #### [insert: picture of balloon getting squeezed]
 In the report, 67 percent of development teams describe AI coding assistants like “squeezing a balloon as work just moves from one side to another.” Teams are using, on average, 8 to 10 different AI tools. Over a third of teams use even more, creating complexity and mental fatigue. Many developers report that constant context switching kills productivity.
 
