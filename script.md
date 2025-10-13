@@ -28,3 +28,6 @@ In short, AI has given code writing a boost but without upgrading the other part
 
 ## Sources: 
 - [AI pushes code faster, but into a bottleneck of risks](https://www.developer-tech.com/news/ai-pushes-code-faster-but-into-a-bottleneck-of-risks/)
+
+This presentation was based on the article from Developer Tech News (2024), "AI-generated code introduces new security bottlenecks.”
+This video was created using Canvas, along with visuals that were sourced via Google Images.
