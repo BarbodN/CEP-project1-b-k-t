@@ -7,4 +7,6 @@
 - [ ] Start the PowerPoint presentation using Microsoft PowerPoint
 - [ ] Have Timmy complete the voice-over
 
+Instead of powerpoint I'm going to use Canva.
+
 **Incomplete**
