@@ -8,5 +8,7 @@
 - [ ] Have Timmy complete the voice-over
 
 Instead of powerpoint I'm going to use Canva.
+The slides link: 
+[https://www.canva.com/design/DAG1pRDQjZ0/FMBgBqZLVa7KnVmYuzHEpw/edit?utm_content=DAG1pRDQjZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 **Incomplete**
